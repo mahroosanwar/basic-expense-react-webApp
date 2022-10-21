@@ -19,7 +19,6 @@ const NewExpense = (props) => {
   };
 
   const stopEditingHandler = () => {
-    
     setIsEditing(false);
   };
 
